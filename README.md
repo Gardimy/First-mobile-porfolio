@@ -59,9 +59,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [My_Portfolio] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> In this project, I start to create my first mobile porfolio.
 
-**[your_project__name]** is a...
+**[First-mobile-porfolio]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -200,13 +200,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> MR Afolabie akorede
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Gardimy)
+- Twitter: [@gardyelontiga45](https://twitter.com/gardyelontiga45)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gardimy-charles-40b795212/)
 
 <!-- FUTURE FEATURES -->
 
@@ -234,9 +234,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> 
 
-If you like this project...
+If you like this project,and would like to know how you can create your, just follow me on github..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
