@@ -8,6 +8,23 @@ body {
   height: auto;
 }
 
+#dell {
+  gap: 4px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column-reverse;
+  width: 650px;
+  height: auto;
+}
+  
+#dell div {
+  width: 18px;
+  border: 2px solid #6070ff;
+  border-radius: 10px;
+  background-color: #6070ff;
+  height: 1px;
+}
 .connect p {
   font-style: normal;
   font-weight: 300;
@@ -23,8 +40,8 @@ body {
 }
 
 .menu-containers {
-  width: 10px;
-  height: 1px;
+  width: auto;
+  height: 2.5px;
   background-color: #fff;
   border-bottom-left-radius: 10px;
   display: flex;
@@ -34,6 +51,7 @@ body {
   align-items: flex-start;
   margin-left: 20px;
   font-weight: 550;
+
 }
 
 .test {
