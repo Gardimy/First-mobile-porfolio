@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My_Portfolio] <a name="about-project"></a>
+# 📖 [My_porfolio] <a name="about-project"></a>
 
 > In this project, I start to create my first mobile porfolio.
 
@@ -96,6 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
+> This application grants employers the ability to find the most adept developers.
 - **[key_feature_1]**
 - **[key_feature_2]**
 - **[key_feature_3]**
@@ -108,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]("https://github.com/Gardimy")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,9 +121,11 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
+If you are new by coding, you can my repository to start your first project mobile.
+
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: To Follow me in github ,you will have more oppotunity have access to my all new project.
 
 <!--
 Example command:
@@ -214,7 +217,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
+- [ I will complete the project by adding another things] **[new_feature_1]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]**
 
@@ -256,13 +259,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Question_1]** Can i will make success if i follow this step?
 
   - [Answer_1]
 
 - **[Question_2]**
 
-  - [Answer_2]
+  - [Answer_2] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
