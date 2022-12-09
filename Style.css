@@ -7,10 +7,6 @@ body {
   width: 375px;
 }
 
-header {
-  padding-top: 0px;
-}
-
 #dell {
   gap: 3px;
   justify-content: column;
@@ -18,7 +14,7 @@ header {
   flex-direction: column;
   padding-top: 15px;
 }
- 
+
 #dell div {
   width: 18px;
   border: 1px solid #6070ff;
